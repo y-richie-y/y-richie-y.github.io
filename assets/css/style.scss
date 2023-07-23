@@ -5,7 +5,7 @@
 
 body, #container {
     background: none;
-    background-color: black;
+    background-color: #333333;
     text-shadow: none;
     color: white;
     font-size: 100%;
@@ -19,7 +19,7 @@ h2 {
 
 header h1, h1, h3, a, footer a {
     font-family: sans-serif;
-    color: orange;
+    color: #d8f8d8;
     font-weight: 400;
 }
 
@@ -28,8 +28,8 @@ footer {
     padding-top: 0;
 }
 
-footer a:hover {
-    color:#c5000c
+a:hover {
+    color:#e8a5a5;
 }
 
 h2 a {
@@ -38,7 +38,7 @@ h2 a {
 }
 
 hr {
-    background-color: orange;
+    background-color: #d8f8d8;
     height: 1px;
     padding-bottom: 0;
     margin-bottom: 21px;
