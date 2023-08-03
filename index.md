@@ -24,7 +24,7 @@ I'm also a PhD student in the [Oxford Quantum Group](http://www.cs.ox.ac.uk/acti
 * B.Sc. University of Cambridge (2019) <br>
   **Constructing hard examples for the graph isomorphism problem**
   [[pdf]](https://github.com/y-richie-y/badgraphs/blob/master/dissertation_trim.pdf)
-  - Supervisors: [Anuj Dawar](https://www.cst.cam.ac.uk/people/ad260)
+  - Supervisor: [Anuj Dawar](https://www.cst.cam.ac.uk/people/ad260)
 
 <!-- ## Journal articles -->
 
@@ -51,7 +51,12 @@ I'm also a PhD student in the [Oxford Quantum Group](http://www.cs.ox.ac.uk/acti
   [[arXiv]](https://arxiv.org/abs/2206.11839) <br>
   QPL 2022
 
-* A. Toumi, R. Yeung and G. de Felice <br>
+* R. Yeung, D. Kartsaklis (2021) <br>
+  **A CCG-Based Version of the DisCoCat Framework**
+  [[arXiv]](https://arxiv.org/abs/2106.06375) <br>
+  SemSpace 2021
+
+* A. Toumi, R. Yeung and G. de Felice (2021) <br>
   **Diagrammatic Differentiation for Quantum Machine Learning**
   [[arXiv]](https://arxiv.org/abs/2103.07960) <br>
   QPL 2021
